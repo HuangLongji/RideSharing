@@ -30,7 +30,7 @@ public class CandidateGroup {
 						break;
 					}
 					
-				}
+				} 
 				if(local==false){
 					globe=false;
 					break;
