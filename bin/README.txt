@@ -9,5 +9,5 @@ The directory of generated results.
 If you use the eclipse editor, you can find generated results in directory "JRE System Library".
 ------------------------------------------------------------------------------------------------------------------------------
 Dataset filename.
-if you want to use your own dataset, changing the variable, dataset filename, in line 25 of Main.java. For example, "BufferedReader br=new BufferedReader(new FileReader(new File("artifical.txt")));".
+if you want to use your own dataset, changing the variable, dataset filename, in line 25 of Main.java. For example, "BufferedReader br=new BufferedReader(new FileReader(new File("artifical.txt")));". 
 
